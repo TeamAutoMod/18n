@@ -1,0 +1,2 @@
+# we don't need the manager.py file in the repo
+*.py
